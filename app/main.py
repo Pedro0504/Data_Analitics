@@ -30,7 +30,7 @@ fre_gr= pd.DataFrame({'Frec_rel':frec_rel.round(2)})
 #Esto es un apartado para la BBDD que quisiera incluir en el futuro
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],  # Vite corre en 5173
+    allow_origins=["*"],  # Vite corre en 5173
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
