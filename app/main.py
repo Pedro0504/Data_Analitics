@@ -2,7 +2,6 @@ from fastapi import FastAPI, HTTPException, Query
 from fastapi.responses import JSONResponse
 from fastapi.responses import StreamingResponse
 import json
-from models.books import Books
 from fastapi.middleware.cors import CORSMiddleware
 from sqlmodel import Field, Session, create_engine,select, SQLModel
 import mysql.connector
