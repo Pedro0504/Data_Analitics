@@ -18,7 +18,7 @@ from io import BytesIO
 app = FastAPI()
 #Debe tenerse en cuenta que hay acciones que pueden acelerar el proceso de llamada
 #Crear consultas previas ahorra tiempo de ejecución
-df = pd.read_excel('web_tables.xlsx')
+df = pd.read_excel('../web_tables.xlsx')
 
 #Vamos a crear una gráfica
 frec_abs = df['Consejo_Popular'].value_counts(dropna=False)
