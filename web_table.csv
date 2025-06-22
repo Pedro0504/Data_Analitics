@@ -1,0 +1,187 @@
+ID_venta;Precio;Descripcion;Cuartos;Banios;Total;Barrio_Zona;Anio;Espacio;Barrio;Consejo_Popular
+1;22000;Venta de Casa en Pueblo Nuevo;3;1;4;Pueblo Nuevo;2024;Grande;Pueblo Nuevo;Pueblo Nuevo
+2;100000;Venta de Casa en Canimar Km 4 1/2 Vía Blanca Varadero;3;1;4;Canimar(Carretera Varadero);2024;Grande;Canimar;Peñas Altas
+3;60000;Venta de Casa en Pueblo Nuevo;3;1;4;Pueblo Nuevo;2023;Grande;Pueblo Nuevo;Pueblo Nuevo
+4;100000;Venta de Casa en Playa;2;1;3;Playa;2022;Grande;Playa;Playa
+5;40000;Venta de Casa en Playa;3;1;4;Playa;2022;Grande;Playa;Playa
+6;70000;Venta de Casa en Versalles;3;2;5;Versalles;2022;Grande;Versalles;Versalles
+7;150000;Venta de Casa en Peñas Altas;2;3;5;Peñas Altas;2022;Grande;Peñas Altas;Peñas Altas
+8;20000;Venta de Casa en Matanzas Oeste;2;2;4;Matanzas Oeste;2022;Grande;Matanzas Oeste;Matanzas Oeste
+9;100000;Venta de Casa en Peñas Altas;3;2;5;Peñas Altas;2021;Grande;Peñas Altas;Peñas Altas
+10;160000;Venta de Casa en Pueblo Nuevo;4;2;6;Pueblo Nuevo(Calzada de San Luis);2021;Grande+;Pueblo Nuevo;Pueblo Nuevo
+11;16000;Venta de Casa en Playa;3;2;5;Playa;2024;Pequeña;Playa;Playa
+12;50000;Venta de Casa en Matanzas Este;3;1;4;Matanzas Este;2021;Grande+;Matanzas Este;Matanzas Este
+13;48186;Venta de Casa en Matanzas Este;4;2;6;Matanzas Este;2021;Grande+;Matanzas Este;Matanzas Este
+14;65000;Venta de Casa en Pueblo Nuevo;5;2;7;Pueblo Nuevo;2021;Grande+;Pueblo Nuevo;Pueblo Nuevo
+15;220000;Venta de Casa en Playa;2;1;3;Playa;2021;Grande;Playa;Playa
+16;25000;Venta de Casa en Playa;2;1;3;Playa;2021;Mediana;Playa;Playa
+17;15000;Venta de Casa en Reparto Camilo Cienfuegos calle 181 entre calle 179 y calle 177.;2;1;3;Pueblo Nuevo(Rpto. Camilo Cienfuegos);2021;Mediana;Rpto. Camilo Cienfuegos;Pueblo Nuevo
+18;12000;Venta de Casa en Matanzas Este;1;1;2;Matanzas Este(Velarde);2021;Pequeña;Matanzas Este;Matanzas Este
+19;65000;Venta de Casa en Playa;3;1;4;Playa;2020;Grande;Playa;Playa
+20;55000;Casa en venta en Pueblo Nuevo;3;2;5;Pueblo Nuevo;2022;Grande;Pueblo Nuevo;Pueblo Nuevo
+21;42000;Venta de Casa en Peñas Altas;3;1;4;Peñas Altas;2020;Grande;Peñas Altas;Peñas Altas
+22;80000;Venta de Casa en Peñas Altas;3;2;5;Peñas Altas(Rpto.Reynold García);2020;Grande;Rpto. Reynold García;Peñas Altas
+23;40000;Venta de Casa en Matanzas Este;5;3;8;Matanzas Este(Marina);2020;Grande;Matanzas Este;Matanzas Este
+24;30000;Venta de Casa en Pueblo Nuevo;3;1;4;Pueblo Nuevo(Clzda Tirry);2020;Grande;Pueblo Nuevo;Pueblo Nuevo
+25;90000;Venta de Casa en Matanzas Este;3;5;8;Matanzas Este(Río);2020;Grande;Matanzas Este;Matanzas Este
+26;21000;Venta de Casa en Matanzas Oeste;2;1;3;Matanzas Oeste(San Carlos);2020;Mediana;Matanzas Oeste;Matanzas Oeste
+27;40000;Venta de Casa en Pueblo Nuevo;3;2;5;Pueblo Nuevo(San Rafael);2020;Mediana;Pueblo Nuevo;Pueblo Nuevo
+28;30000;Venta de Casa en Pueblo Nuevo;2;1;3;Pueblo Nuevo(Espíritu Santo);2020;Mediana;Pueblo Nuevo;Pueblo Nuevo
+29;83000;Venta de Casa en Peñas Altas;3;1;4;Rpto. Reynold García;2020;Grande;Rpto. Reynold García;Peñas Altas
+30;55000;Venta de Casa en Peñas Altas;3;1;4;Rpto. Reynold García;2020;Grande;Peñas Altas;Peñas Altas
+31;30000;Venta de Casa en Versalles;4;1;5;Versalles(La Cumbre);2020;Grande+;Versalles;Versalles
+32;22000;Venta de Casa en Peñas Altas;2;1;3;Peñas Altas(Bahía);2020;Mediana;Peñas Altas;Peñas Altas
+33;16000;Venta de Casa en Versalles;2;1;3;Versalles(Navia);2020;Mediana;Versalles;Versalles
+34;70000;Venta de Casa en Playa;3;2;5;Playa(Calzada);2020;Grande;Playa;Playa
+35;17000;Venta de Casa en Cods cuadras del centro médico de matanzas;2;2;4;Matanzas Este(Cntro. Médico);2020;Mediana;Matanzas Este;Matanzas Este
+36;20000;Venta de Casa en Pastorita matanzas;3;1;4;Peñas Altas(Pastorita);2019;Grande;Peñas Altas;Peñas Altas
+37;45000;Venta de Casa en Pueblo Nuevo;4;2;6;Pueblo Nuevo(Buen Viaje);2019;Grande+;Pueblo Nuevo;Pueblo Nuevo
+38;120000;Venta de Casa en Calle 45;5;2;7;Versalles(La Cumbre);2019;Grande+;Versalles;Versalles
+39;25500;Venta de Casa en Matanzas Este;3;2;5;Matanzas Este(Manzaneda/Jesús María);2019;Grande+;Matanzas Este;Matanzas Este
+40;12500;Venta de Casa en Matanzas Oeste;1;1;2;Matanzas Oeste(Santa Isabel);2019;Pequeña;Matanzas Oeste;Matanzas Oeste
+41;60000;Venta de Casa en Peñas Altas;2;1;3;Peñas Altas(Farallón);2018;Grande;Peñas Altas;Peñas Altas
+42;60000;Venta de Casa en Peñas Altas;3;2;5;Peñas Altas(135/154);2018;Grande;Peñas Altas;Peñas Altas
+43;120000;Venta de Casa en Playa;5;3;8;Playa(153/Candelaria);2018;Grande+;Playa;Playa
+44;25000;Venta de Casa en Matanzas Oeste;3;1;4;Matanzas Oeste(79);2018;Mediana;Matanzas Oeste;Matanzas Oeste
+45;40000;Venta de Casa en Versalles;4;3;7;Versalles(Snta.Rita);2018;Grande+;Versalles;Versalles
+46;160000;Venta de Casa en Playa;4;2;6;Playa(Calzada);2018;Grande+;Playa;Playa
+47;9500;Venta de Casa en Calle Zaragoza entre Velarde y Salamanca #7105;2;1;3;Matanzas Este(Marina);2018;Mediana;Matanzas Este;Matanzas Este
+48;65000;Venta de Casa en Matanzas Este;4;1;5;Matanzas Este(Calle Medio);2018;Grande;Matanzas Este;Matanzas Este
+49;18000;Venta de Casa en Matanzas Oeste;3;1;4;Matanzas Oeste(Compostela Final);2018;Grande+;Matanzas Oeste;Matanzas Oeste
+50;120000;Venta de Casa en Peñas Altas;2;1;3;Peñas Altas();2018;Mediana;Peñas Altas;Peñas Altas
+51;35000;Venta de Casa en Pueblo Nuevo;2;1;3;Pueblo Nuevo(Marulli/San Vicente);2018;Mediana;Pueblo Nuevo;Pueblo Nuevo
+52;80000;Venta de Casa en Peñas Altas;3;1;4;Rpto. Reynold García;2017;Grande;Rpto. Reynold García;Peñas Altas
+53;18000;Venta de Casa en Pueblo Nuevo;1;1;2;Pueblo Nuevo(Espíritu Santo/San Carlos);2017;Pequeña;Pueblo Nuevo;Pueblo Nuevo
+54;53000;Venta de Casa en Álvarez esquina Guachinango;5;3;8;Matanzas Oeste(Guachinango);2017;Grande;Matanzas Oeste;Matanzas Oeste
+55;50000;Venta de Casa en Playa;4;1;5;Playa(Septima/234);2017;Mediana;Playa;Playa
+56;50000;Venta de Casa en Playa;2;2;4;Playa(Segunda/Primera);2017;Mediana;Playa;Playa
+57;45000;Venta de Casa en Versalles;3;3;6;Versalles(La Cumbre);2017;Grande+;Versalles;Versalles
+58;40000;Venta de Casa en Versalles;4;2;6;Versalles(Snta. Cristina/San Juan de la Cruz);2017;Grande+;Versalles;Versalles
+59;40000;Venta de Casa en Pueblo Nuevo;3;1;4;Pueblo Nuevo(171);2017;Grande+;Pueblo Nuevo;Pueblo Nuevo
+60;50000;Venta de Casa en Matanzas Este;3;2;5;Matanzas Este(Jesús María/Compostela);2016;Mediana;Matanzas Este;Matanzas Este
+61;30000;Venta de Casa en Versalles;3;2;5;Versalles(San Alejandro/Navia);2016;Grande;Versalles;Versalles
+62;21000;Venta de Casa en Matanzas Oeste;2;2;4;Matanzas Oeste(Los Mangos/Ramón Mathieu);2016;Mediana;Matanzas Oeste;Matanzas Oeste
+63;350000;Venta de Casa en Playa;3;3;6;Peñas Altas();2016;Grande;Peñas Altas;Peñas Altas
+64;55000;Venta de Casa en Matanzas Este;4;2;6;Matanzas Este(Centro/Parque/Libertad);2016;Grande;Matanzas Este;Matanzas Este
+65;65000;Venta de Casa en Los Pinitos Playa;4;2;6;Playa(Los Pinitos);2016;Grande;Playa;Playa
+66;60000;Venta de Casa en Playa;4;3;7;Playa(Paraiso);2016;Grande;Playa;Playa
+67;380000;Venta de Casa en Playa;6;5;11;Playa(Levante);2016;Grande+;Playa;Playa
+68;61000;Venta de Casa en Pueblo Nuevo;5;2;7;Pueblo Nuevo(Tirry);2016;Grande+;Pueblo Nuevo;Pueblo Nuevo
+69;10000;Venta de Casa en Versalles;3;1;4;Versalles(Snta. Cecilia/San Hipólito);2016;Mediana;Versalles;Versalles
+70;100000;Venta de Casa en Playa;3;1;4;Playa(136);2016;Mediana;Playa;Playa
+71;250000;Venta de Casa en Playa;6;2;8;Playa(186);2016;Grande+;Playa;Playa
+72;250000;Venta de Casa en Playa;5;3;8;Playa(129/212);2015;Grande+;Playa;Playa
+73;32000;Venta de Casa en Matanzas Este;3;1;4;Matanzas Oeste(Medio/San Carlos);2015;Mediana;Matanzas Oeste;Matanzas Oeste
+74;40000;Venta de Casa en Calle Medio entre Guachinango y Buena Vista;4;1;5;Matanzas Oeste(Medio/Guachinango);2015;Grande;Matanzas Oeste;Matanzas Oeste
+75;80000;Venta de Casa en Versalles;5;3;8;Versalles(45);2015;Grande+;Versalles;Versalles
+76;8500;Venta de Casa en Versalles;3;1;4;Versalles(Snta. Cecilia/Esperanza);2015;Mediana;Versalles;Versalles
+77;25000;Venta de Casa en Matanzas Oeste;2;2;4;Matanzas Oeste(Río/Mujica);2015;Mediana;Matanzas Oeste;Matanzas Oeste
+78;45000;Venta de Casa en Naranjal;4;2;6;Naranjal(109/Segunda);2015;Grande;Naranjal;Naranjal
+79;95000;Venta de Casa en Matanzas Este;5;2;7;Matanzas Este(Zaragoza);2015;Grande+;Matanzas Este;Matanzas Este
+80;40000;Venta de Casa en Peñas Altas;4;2;6;Peñas Altas(155/186);2015;Mediana;Peñas Altas;Peñas Altas
+81;42000;Venta de Casa en Pueblo Nuevo;3;2;5;Pueblo Nuevo(Línea/San Fernando);2015;Grande;Pueblo Nuevo;Pueblo Nuevo
+82;65000;Venta de Casa en Playa;3;1;4;Playa(Calle B);2015;Mediana;Playa;Playa
+83;10000;Venta de Casa en Santa Cecilia;3;1;4;Versalles(Snta.Cecilia);2015;Mediana;Versalles;Versalles
+84;40000;Venta de Casa en Matanzas Oeste;3;1;4;Matanzas Oeste(97/306);2015;Mediana;Matanzas Oeste;Matanzas Oeste
+85;9000;Venta de Casa en Pueblo Nuevo;1;1;2;Pueblo Nuevo(Recurso/Tirry);2015;Pequeña;Pueblo Nuevo;Pueblo Nuevo
+86;30000;Venta de Casa en Matanzas Oeste;2;1;3;Matanzas Oeste(San Gabriel/ Manzano);2015;Mediana;Matanzas Oeste;Matanzas Oeste
+87;60000;Venta de Casa en Versalles;3;2;5;Versalles(San Hipólito/Glorieta);2015;Grande;Versalles;Versalles
+88;90000;Venta de Casa en Matanzas Este;6;4;10;Matanzas Este(Reynold García/158);2014;Grande+;Matanzas Este;Matanzas Este
+89;85000;Venta de Casa en Peñas Altas;4;2;6;Peñas Altas(Pastorita);2014;Mediana;Peñas Altas;Peñas Altas
+90;60000;Venta de Casa en Playa;3;1;4;Peñas Altas(Pastorita);2014;Pequeña;Peñas Altas;Peñas Altas
+91;60000;Venta de Casa en Peñas Altas;3;2;5;Peñas Altas(Reynold García);2014;Pequeña;Peñas Altas;Peñas Altas
+92;55000;Venta de Casa en Matanzas Oeste;4;2;6;Matanzas Oeste(Milanés);2014;Grande;Matanzas Oeste;Matanzas Oeste
+93;55000;Venta de Casa en Playa;4;2;6;Playa(214);2014;Grande;Playa;Playa
+94;75000;Venta de Casa en Playa;4;2;6;Playa(264/Final);2014;Grande;Playa;Playa
+95;25000;Venta de Casa en Matanzas Este;3;1;4;Matanzas Este(75/292);2014;Mediana;Matanzas Este;Matanzas Este
+96;90000;Venta de Casa en Playa;4;1;5;Playa(Calzada);2014;Grande;Playa;Playa
+97;35000;Venta de Casa en Playa;2;1;3;Versalles(Avn.Muelle);2014;Pequeña;Versalles;Versalles
+98;25000;Venta de Casa en Versalles;4;2;6;Versalles(224/31/Cumbre);2014;Grande;Versalles;Versalles
+99;75000;Venta de Casa en Playa;3;2;5;Peñas Altas(Rpto.Iglesias);2014;Mediana;Peñas Altas;Peñas Altas
+100;550000;Venta de Casa en Playa;5;3;8;Playa(127);2014;Grande+;Playa;Playa
+101;55000;Venta de Casa en BUENA VISTA 9902;4;2;6;Matanzas Oeste(Buena Vista);2014;Mediana;Matanzas Oeste;Matanzas Oeste
+102;23500;Venta de Casa en Playa;1;1;2;Playa(Solis);2013;Pequeña;Playa;Playa
+103;40000;Venta de Casa en Matanzas Oeste;4;2;6;Matanzas Oeste(Snta. Isabel);2013;Pequeña;Matanzas Oeste;Matanzas Oeste
+104;100000;Venta de Casa en Playa;4;2;6;Playa(Pilar/Covadonga);2013;Grande;Playa;Playa
+105;50000;Venta de Casa en Peñas Altas;3;2;5;Peñas Altas(Reynold García);2013;Mediana;Peñas Altas;Peñas Altas
+106;50000;Venta de Casa en Peñas Altas;3;2;5;Peñas Altas(Reynold García);2013;Mediana;Peñas Altas;Peñas Altas
+107;80000;Venta de Casa en Pueblo Nuevo;4;2;6;Pueblo Nuevo(Snta.Cristina/San Luís);2013;Grande;Pueblo Nuevo;Pueblo Nuevo
+108;28000;Venta de Casa en Versalles;3;1;4;Versalles(Plácido/San Blás);2013;Pequeña;Versalles;Versalles
+109;35000;Venta de Casa en Matanzas Oeste;3;2;5;Matanzas Oeste(314/63);2013;Mediana;Matanzas Oeste;Matanzas Oeste
+110;18000;Venta de Casa en Versalles;3;1;4;Versalles(Snta.Cecilia);2013;Mediana;Versalles;Versalles
+111;50000;Matanzas. Se vende chalet;3;2;5;Playa;2025;Grande;Playa;Playa
+112;40000;"Casa con garaje y cisterna, 3 cuartos, 2 baños En 40.000.";3;2;5;Playa;2025;Grande;Playa;Playa
+113;7500;PUEBLO NUEVO MATANZAS..Se vende 2 en 1;2;2;4;Pueblo Nuevo;2025;Mediana;Pueblo Nuevo;Pueblo Nuevo
+114;25000;Oferta casa en matanzas zona céntrica;3;1;4;Centro;2025;Grande;Matanzas Este;Matanzas Este
+115;6500;Vendo casa en Matanzas.;2;1;3;Matanzas Este(Centro);2025;Mediana;Matanzas Este;Matanzas Este
+116;9000;CASA EN PUEBLO NUEVO MATANZAS DE 1/4;1;1;2;Pueblo Nuevo;2025;Pequeña;Pueblo Nuevo;Pueblo Nuevo
+117;29000;Venta de Casa en Matanzas o Permuta para La Habana;3;2;5;Peñas Altas(Pastorita);2025;Mediana;Peñas Altas;Peñas Altas
+118;35000;Casa en venta en Matanzas;2;2;4;Matanzas Este(Calle Río);2025;Grande;Matanzas Este;Matanzas Este
+119;15000;Casa en Venta en Versalles;3;1;4;Versalles;2025;Grande;Versalles;Versalles
+120;30000;Venta de casa en Pastorita;2;1;3;Peñas Altas(Pastorita);2025;Mediana;Peñas Altas;Peñas Altas
+121;35000;Vendo bonito y remodelado Aprtamento en matanzas con vista a la bahía;3;1;4;Playa;2025;Mediana;Playa;Playa
+122;40000;Se vende casa en ciudad de Matanzas;2;2;4;Parque Rene Fraga;2025;Grande;Matanzas Oeste;Matanzas Oeste
+123;7500;Venta de apto en el Reparto Camilo Cienfuegos Matanzas;2;1;3;Camilo Cienfuegos;2025;Mediana;Rpto. Camilo Cienfuegos;Pueblo Nuevo
+124;70000;Encanto Natural Casa Rio terraza al río;2;2;4;Centro Histórico(Calle Río);2025;Mediana;Matanzas Este;Matanzas Este
+125;70000;Encanto Natural Casa Luna terraza a la ciudad;3;3;6;Centro Histórico(Calle Río);2025;Mediana;Matanzas Este;Matanzas Este
+126;35000;"Casa con 3 cuartos, sala, cocina, baño, comedor, portal, terraza, garaje, jardín pasillos laterales.";3;1;4;Peñas Altas(Rpto. Iglesias);2025;Grande;Rpto. Iglesias;Peñas Altas
+127;6500;"Vendo casa en Matanzas. Marina, portal, sala, comedor, cocina, baño, hall, patio de servicio";2;2;4;Matanzas Este(Marina);2025;Mediana;Marina;Matanzas Este
+128;9000;Se vende o se permuta Pueblo Nuevo;1;2;3;Pueblo Nuevo;2025;Pequeña;Pueblo Nuevo;Pueblo Nuevo
+129;30000;"Se vende casa sala, 3 cuartos, 2 baños, cocina-comedor, patiecito, placa libre";3;2;5;Pueblo Nuevo(Calzada de Tirry);2025;Grande;Pueblo Nuevo;Pueblo Nuevo
+130;5500;"Casa centro, interior";1;1;2;Matanzas Este(Centro);2025;Pequeña;Matanzas Este;Matanzas Este
+131;15000;Casa Terminal;2;1;3;Matanzas Pueblo Nuevo(Terminal);2025;Grande;Pueblo Nuevo;Pueblo Nuevo
+132;6000;Apto Naranjal;2;1;3;Naranjal;2025;Mediano;Naranjal;Naranjal
+133;3000;Casa Versalles;1;1;2;Versalles;2025;Pequeña;Versalles;Versalles
+134;4800;Apto Naranjal;2;1;3;Naranjal;2025;Pequeño;Naranjal;Naranjal
+135;7500;Pueblo Nuevo;1;1;2;Pueblo Nuevo;2025;Pequeña;Pueblo Nuevo;Pueblo Nuevo
+136;20000;"Venta de casa Versalles, Matanzas dos pisos, sala, cocina y balcón";2;1;3;Versalles;2022;Grande;Versalles;Versalles
+137;250000;"Casa barrio de la Playa Matanzas dos pisos ,con cuarto de estudio, y construcción iniciada en el patio";5;2;7;Playa;2022;Grande;Playa;Playa
+138;10000;Venta de apartamento Naranjal Norte;3;1 baño;3;Naranjal;2022;Mediana;Naranjal;Naranjal
+139;50000;Amplia casa colonial en magnífico estado en el centro de la ciudad de Matanzas;3;2;5;Centro;2021;Grande;Matanzas Este;Matanzas Este
+140;70000;Casa en óptimas condiciones.;4;2;6;Matanzas Este;2021;Grande;Matanzas Este;Matanzas Este
+141;20000;"Se vende casa, con entradas independientes, portal patio de tierra";2;2;4;Matanzas Este;2021;Grande;Matanzas Este;Matanzas Este
+142;50000;Excelente casa de tres dormitorios en la ciudad de Matanzas.;3;2;5;Matanzas Este;2020;Grande;Matanzas Este;Matanzas Este
+143;1500;"Venta de un terreno en Versalles, Matanzas en 1500 CUC";0;0;0;Versalles;2020;Pequeño;Versalles;Versalles
+144;150000;Fabulosa casa;3;2;5;Playa;2020;Grande;Playa;Playa
+145;20000;"VENTA!! En Pastorita, Matanzas";2;1;3;Pastorita;2020;Mediana;Rpto. Reynold García;Peñas Altas
+146;16000;Venta de casa en el centro de la ciudad de Matanzas;2;1;3;Centro;2020;Mediana;Matanzas Este;Matanzas Este
+147;14000;Vendo casa Pueblo Nuevo;2;2;4;Pueblo Nuevo;2019;Grande;Pueblo Nuevo;Pueblo Nuevo
+148;45000;Oferta espectacular;3;3;6;Rpto. Reynold García;2019;Grande+;Peñas Altas;Peñas Altas
+149;10000;vendo o cambio por almendron casa 1/4 en matanzas;1;1;2;Matanzas Este;2018;Pequeña;Matanzas Este;Matanzas Este
+150;20000;Vendo casa en perfectas condicones;2;1;3;Matanzas Este;2018;Mediana;Matanzas Este;Matanzas Este
+151;21000;Vendo.Casa antigua independiente en la ciudad de Matanzas;2;2;4;Matanzas Este;2018;Mediana;Matanzas Este;Matanzas Este
+152;11000;Vendo casa Pueblo Nuevo;2;1;3;Pueblo Nuevo;2019;Mediana;Pueblo Nuevo;Pueblo Nuevo
+153;180000;Vendo casa en Playa;3;1;4;Playa;2018;Grande;Playa;Playa
+154;60000;Casa tres plantas garaje y 2 vestidores;4;4;8;Peñas Altas(Reynold García);2018;Grande+;Peñas Altas;Peñas Altas
+155;85000;Casa con Portal;3;2;5;Pueblo Nuevo;2018;Mediana;Pueblo Nuevo;Pueblo Nuevo
+156;10000;Casa en Venta en Buena vista/Medio;2;2;4;Matanzas Oeste(Medio/Buena Vista);2025;Mediana;Matanzas Oeste;Matanzas Oeste
+157;12000;Casa pequeña de un cuarto con patio y árboles;1;1;2;Peñas Altas(Rpto.Reynold García);2025;Pequeña;Rpto. Reynold García;Peñas Altas
+158;5500;Casa cerca del Parque de la Libertad sin terminar;1;1;2;Matanzas Este(Centro);2025;Pequeña;Matanzas Este;Matanzas Este
+159;12000;Casa renovada Versalles;2;1;3;Versalles(La Cumbre);2025;Mediana;Versalles;Versalles
+160;4500;Casa con segundo piso sin terminar;2;1;3;Matanzas Oeste(Río/ San Gabriel);2025;Mediana;Matanzas Oeste;Matanzas Oeste
+161;5500;Apto interior cerca del Parque de la Libertad 1 cuarto;1;1;2;Matanzas Este();2025;Pequeña;Matanzas Este;Matanzas Este
+162;3500;Casa en calle Río;1;1;2;Matanzas Oeste(Cuba);2025;Pequeña;Matanzas Oeste;Matanzas Oeste
+163;16000;"Casa en Pueblo Nuevo, con piscina";2;2;4;Pueblo Nuevo(Coppelia);2025;Grande;Pueblo Nuevo;Pueblo Nuevo
+164;8000;"Casa dos cuartos, cocina comedor, cuarto, patio y baño";2;1;3;Pueblo Nuevo(Camilo Cienfuegos);2025;Mediana;Pueblo Nuevo;Pueblo Nuevo
+165;6000;"Casa de sala, saleta, tres cuartos, cocina, baño y pasillo lateral";3;1;4;Matanzas Este(América/Compostela);2025;Mediana;Matanzas Este;Matanzas Este
+166;6500;"Casa con sala cocina-comedor, baño y patio";2;1;3;Pueblo Nuevo;2025;Pequeña;Pueblo Nuevo;Pueblo Nuevo
+167;30000;"Casa con portal, sala, comedor, 2 cocinas, baño, terraza, garaje, 4 cuartos, cuarto de lavado, trastero, cisterna, jardín";4;1;5;Rpto. Iglesias;2025;Grande;Rpto. Iglesias;Peñas Altas
+168;85000;"Casa con apartamento adjunto con cuarto y baño, portal, sala, saleta, comedor, cocina, 2 cuartos y baño, ranchón y garaje.";3;2;5;Playa(Zona Playa Tenis);2025;Grande;Playa;Playa
+169;22000;Apartamento 13 plantas;3;1;4;Peñas Altas;2025;Mediana;Peñas Altas;Peñas Altas
+170;15000;"Casa en Pueblo Nuevo con sala, tres cuartos, cocina, comedor, patio, baño, cuarto de desahogo";3;1;4;Pueblo Nuevo;2025;Grande;Pueblo Nuevo;Pueblo Nuevo
+171;10000;"Apartamento 13 plantas consta de tres cuartos, patio interior, sala,cocina, comedor, baño y balcón";3;1;4;Peñas Altas;2025;Mediana;Peñas Altas;Peñas Altas
+172;3500;"Casita en contreras entre callejón y Magdalena, 1 cuarto, cocina y baño";1;1;2;Matanzas Este;2025;Pequeña;Matanzas Este;Matanzas Este
+173;8000;"Casa en Zona Industrial, portal, sala, cocina, comedor, 2 cuartos y baño";2;1;3;Versalles(Zona Industrial);2025;Mediana;Versalles;Versalles
+174;6000;Apto. Naranjal;2;1;3;Naranjal;2025;Mediana;Naranjal;Naranjal
+175;5500;Casa de dos pisos;3;1;4;Naranjal;2025;Grande;Naranjal;Naranjal
+176;5000;Apto. Matanzas zona Centro Médico;1;1;2;Matanzas Este;2025;Pequeña;Matanzas Este;Matanzas Este
+177;7000;"Casa en Pueblo Nuevo, sala, cocina, tres cuartos, cerca del puente de Tirry";3;1;4;Pueblo Nuevo(San Andrés/Tirry y San Carlos);2025;Grande;Pueblo Nuevo;Pueblo Nuevo
+178;7000;"Apto en Pastorita, 5to piso, sala, dos cuartos, baño, cocina comedor balcón";2;1;3;Rpto. Reynold García;2025;Mediana;Rpto. Reynold García;Peñas Altas
+179;3500;"Casa con patio grande, sala cocina, baño, 2 cuartos, pasillos laterales y cuarto de desahogo";2;1;3;Naranjal;2025;Mediana;Naranjal;Naranjal
+180;15000;"Venta de casa en Pueblo Nuevo, portal , sala, hall, cocina-comedor, 2 cuartos y 2 baños, terraza y cuarto de desahogo";2;2;4;Pueblo Nuevo;2024;Mediana;Pueblo Nuevo;Pueblo Nuevo
+181;20000;Venta en calle Cuba;2;1;3;Matanzas Este;2025;Mediana;Matanzas Este;Matanzas Este
+182;3000;Casa en Río detrás de la Formadora de Maestros;2;1;3;Matanzas Oeste;2025;Mediana;Matanzas Oeste;Matanzas Oeste
+183;15000;Casa en calzada de Tirry;2;1;3;Pueblo Nuevo;2025;Mediana;Pueblo Nuevo;Pueblo Nuevo
+184;10000;Versalles Arrechabaleta;3;2;5;Versalles;2025;Grande;Versalles;Versalles
+185;22000;"Matanzas Este, tres plantas vista a la ciudad";4;2;6;Matanzas Este;2025;Grande;Matanzas Este;Matanzas Este
+186;27000;Casa en Peñas Altas;2;1;3;Peñas Altas;2025;Mediana;Peñas Altas;Peñas Altas
